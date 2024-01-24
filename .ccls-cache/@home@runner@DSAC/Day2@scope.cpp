@@ -9,5 +9,4 @@ int main() {
   }
   return 0;
 }
-/* here we have 3 scopes inner (1st) scope where x value is 20, 2nd scope, where
- * x value is 10 and outer(3rd) scope where x value is 50  */
+/* here we have 3 scopes inner (1st) scope where x value is 20, 2nd scope, where x value is 10 and outer(3rd) scope where x value is 50  */
